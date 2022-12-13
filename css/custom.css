@@ -1,0 +1,42 @@
+/* add your custom css here */
+/* do NOT edit the styles.css file */
+
+@charset "UTF-8"; 
+
+body { background-color: #c1d4c5; }
+
+
+ul {
+  list-style-type: none;
+ }
+
+   .btn{font-family: monospace;}
+
+   .lead{font-family: palatino;}
+
+.nav-item:hover {
+	background-color:  #c1d4c5;
+}
+
+h2{font-family: monospace;}
+
+
+h1{color: black;
+font-family: Palatino;
+
+}
+.col-lg-8{text-align: center;}
+
+
+
+
+.navbar-brand{
+
+    font-family: Georgia;
+	font-size: medium;
+
+
+
+
+
+}
